@@ -6,4 +6,4 @@ Hey there! 👋
 ⚡ Fun fact: I have 2 hours of flight time...\
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/takella), email, phone number. \
 😄 Pronouns: He/Him\
-🔭 Learn more about me at [takellacode](https://takellacodes.vercel.app/)
+🔭 Learn more about me at [takellacodes](https://takellacodes.vercel.app/)
